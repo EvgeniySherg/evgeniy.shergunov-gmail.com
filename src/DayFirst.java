@@ -1,3 +1,5 @@
+
+
 public class DayFirst {
     public static void main(String[] args) {
         System.out.print("First homework");
